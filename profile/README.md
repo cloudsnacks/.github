@@ -1,4 +1,4 @@
 # Cloudsnacks
 
-Byte sized cloud stacks.
+Byte sized stacks.
 
