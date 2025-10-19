@@ -1,0 +1,10 @@
+{
+  "name": "Terraform CI Workflow",
+  "description": "Continuous integration workflow for Terraform projects with validation and planning",
+  "iconName": "terraform",
+  "categories": [
+    "Infrastructure",
+    "Terraform",
+    "CI/CD"
+  ]
+}

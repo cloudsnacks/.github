@@ -1,0 +1,10 @@
+{
+  "name": "Security Scanning Workflow",
+  "description": "Automated security scanning with Trivy and Checkov",
+  "iconName": "shield-check",
+  "categories": [
+    "Security",
+    "CI/CD",
+    "Code Quality"
+  ]
+}
